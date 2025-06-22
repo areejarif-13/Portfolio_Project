@@ -1,2 +1,3 @@
 # Portfolio_Project
-Personalized html ,c
+So its my first Web project!
+Through Google UX Course I learned some key steps:
